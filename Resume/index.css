@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;;
+}
+
+
+h2{
+    padding: 20px 20px 20px 0;
+}
+body{
+    margin:100px ;
+}
+h1 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+table td {
+    height: 2.5rem;
+    width: 30rem;
+}
+section ul li{
+    list-style: none;
+    padding-bottom: 8px;
+}
+section ol li{
+    padding-bottom: 8px;
+}
+section ol{
+    padding-left: 20px;
+}
+
+section p{
+    display: inline;
+}
+
+#styleType ul li{
+    list-style: circle;
+}
+#styleType ul{
+    padding-left: 20px;
+}
